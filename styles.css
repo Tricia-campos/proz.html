@@ -1,0 +1,17 @@
+h1{
+    color: deeppink;
+}
+
+div {
+    background-color: rgba(238, 126, 187, 0.438);
+    margin:30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px; 
+    border: solid blueviolet 3px
+}
+
+p {
+    background-color: rgb(245, 200, 234);
+}
